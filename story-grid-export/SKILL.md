@@ -1,5 +1,5 @@
 ---
-name: story-grid-expert
+name: story-grid-export
 description: >
   Lemon Studios Story Editor uses this for structural diagnosis of scripts and IP under
   development. Use when checking genre obligations, Five Commandments, or Beginning
