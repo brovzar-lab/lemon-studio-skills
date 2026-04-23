@@ -18,7 +18,7 @@ Read the relevant reference files before doing any work:
 - **Always read first**: `references/type-data.md` for the protagonist's Enneagram type (and opponent's de-evolution type). Every recommendation must cite specific type data, not generic Enneagram concepts.
 - **For Step 3 (evolution/de-evolution)**: `references/evolution-table.md` for the master circuit table.
 - **For team stories**: `references/team-roles.md` for the 9-type x 4-stage behavior matrix.
-- **Authoritative source**: `references/rapid_story_dev_toolkit_v2.docx` is the complete extracted toolkit from Jeff Lyons' Rapid Story Development (Routledge, 2020). Read this file when you need to verify any framework detail, resolve ambiguity between the .md reference files, or go deeper on a concept than the .md summaries cover. This is the source of truth.
+- **Authoritative source**: `references/rapid_story_dev_toolkit_v2.md` is the complete extracted toolkit from Jeff Lyons' Rapid Story Development (Routledge, 2020). Read this file when you need to verify any framework detail, resolve ambiguity between the shorter .md reference files, or go deeper on a concept than the summaries cover. This is the source of truth.
 - **For generating any deliverable**: `references/docx-templates.md` documents section conventions and structure. All deliverables are output in Markdown format, not .docx.
 
 ## Routing to Other Skills
